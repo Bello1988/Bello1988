@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Bello1988
+- 👀 I’m interested in machine learning (faeture selection)
+- 🌱 I’m currently learning feature selection algorithms
+- 💞️ I’m looking to collaborate on ...
+- 📫 Reach me @ imamubello@gmail.com
